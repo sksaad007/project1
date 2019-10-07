@@ -52,6 +52,7 @@ margin: 0 auto;
 .menubar ul li:hover {
     background: #5fc3ff;
     color: white;
+    transition: all 0.3s linear;
 }
 /*TOPBAR DESIGN END*/
 
