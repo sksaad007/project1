@@ -9,7 +9,7 @@
 
 /*CONTAINER CSS START*/
 .container{
-width: 1135px;
+width: 1140px;
 margin: 0 auto;
 
 }
@@ -47,7 +47,8 @@ margin: 0 auto;
     display: inline-block;
     background: transparent;
     border-radius: 5px;
-    font-size: 20px;
+    font-size: 21px;
+    color: #15a4fa;
 }
 .menubar ul li:hover {
     background: #5fc3ff;
