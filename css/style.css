@@ -122,6 +122,8 @@ button {
 
 button:hover {
     background: #15a4fa;
+    padding: 20px 35px;
+    transition: all 0.3s linear;
 }
 
 
