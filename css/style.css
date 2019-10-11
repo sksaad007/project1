@@ -162,6 +162,7 @@ button:hover {
 .feature{
 	 padding: 80px 0;
 	 width: 100%;
+	 float: left;
 	 min-height: 210px;
 }
 .box {
